@@ -1,0 +1,9 @@
+{
+  "guide": [
+    "Alan adını kontrol edin: Bir bağlantıdaki gerçek sunucu adı, http:// veya https:// bölümünden sonra gelir. Yazım farklarına ve benzer harflere dikkat edin. Bağlantıyı bota göndererek alan adını görebilirsiniz.",
+    "HTTPS ne anlama gelir? Bağlantının şifrelenmesini sağlar; sitenin dürüst, resmî veya güvenli olduğunu garanti etmez. Şifre ve doğrulama kodlarınızı paylaşmayın.",
+    "Erişim sorunu yaşarsanız: Adresi kaynağın resmî kanalından kontrol edin, internet bağlantınızı deneyin ve hizmetin kendi durum duyurularını inceleyin. Bot, canlı erişim kontrolü yapmaz.",
+    "Kısaltılmış bağlantılar hedefi gizleyebilir. Tanımadığınız adreslerden dosya indirmeyin. Özel erişim belirteci veya kişisel bilgi içeren bağlantıları paylaşmayın."
+  ],
+  "announcements": []
+}
